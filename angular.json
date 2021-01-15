@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "clitest"
+  "defaultProject": "clitest",
+  "cli": {
+    "analytics": "5a319d3c-7828-4117-8659-01de0395d041"
+  }
 }
